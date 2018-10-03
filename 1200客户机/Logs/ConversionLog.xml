@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='ConversionLogFile.xsl'?>
+<LogFile projectName="1200客户机" typeText="类型" messageText="消息" timeText="时间">
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2014/11/24 20:36:42">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="已开始升级" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2014/11/24 20:36:42">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="读取之前项目/库的信息。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2014/11/24 20:36:46">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="更新新项目/库。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2014/11/24 20:36:49">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="更新新项目/库。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2014/11/24 20:36:53">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="更新新项目/库。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2014/11/24 20:36:53">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="保存已升级的项目/库。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="Automation-ObjectFrame-Feedbacks" MessageId="ConversionInfoTabProjectSucceeded" MessageClass="Success" Timestamp="2014/11/24 20:36:53">
+    <Number ServiceNumber="80" MessageNumber="34" />
+    <Text FeedbackText="项目 '1200客户机' 已成功升级并另存为项目 '1200客户机_V12_SP1'。" />
+    <Help HelpId="-1" HelpFile="" />
+  </MessageCell>
+</LogFile>
